@@ -77,3 +77,6 @@ h2{
 .large-image button:hover{
     opacity: 0.8;
 }
+.large-image{
+    display: none;
+}
